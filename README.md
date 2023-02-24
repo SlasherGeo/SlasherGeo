@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! 👋
 
 - I'm currently working on finding an internship for the summer! 🔭
 - Also learning JavaFX on the side for future projects📘
