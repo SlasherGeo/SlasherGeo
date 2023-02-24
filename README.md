@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+- I'm currently working on finding an internship for the summer! 🔭
+- Also learning JavaFX on the side for future projects📘
+- How to reach me ☎:
+-   LinkedIn - on profile 🤵‍♂️
+-   Instagram - haboinko 📷 
+
+- Fun Fact 🤔: I was a gymnast in high school 🚶
+
+
+
 <!--
 **SlasherGeo/SlasherGeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
