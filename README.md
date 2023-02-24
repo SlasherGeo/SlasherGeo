@@ -5,6 +5,7 @@
 - How to reach me ☎:
 -   LinkedIn - on profile 🤵‍♂️
 -   Instagram - haboinko 📷 
+-   Email: habeebrx7@gmail.com
 
 - Fun Fact 🤔: I was a gymnast in high school 🚶
 
