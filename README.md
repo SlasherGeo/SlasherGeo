@@ -1,7 +1,7 @@
-### Hi! 👋
+### Hello there! 👋
 
-- I'm currently working on finding an internship for the summer! 🔭
-- Also learning JavaFX on the side for future projects📘
+- I'm currently working on finding an internship or full-time opportunity! 🔭
+- Learning frameworks (like vue.js) on the side
 - How to reach me ☎:
 -   LinkedIn - on profile 🤵‍♂️
 -   Instagram - haboinko 📷 
