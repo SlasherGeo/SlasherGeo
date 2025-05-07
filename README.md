@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-- I'm currently working on finding an internship or full-time opportunity! 🔭
+- I'm currently working on finding an internship or full-time opportunity, and some fun projects on the side! 🔭
 - Learning frameworks (like vue.js) on the side
 - How to reach me ☎:
 -   LinkedIn - on profile 🤵‍♂️
